@@ -1,0 +1,28 @@
+#sec6 ul {
+  list-style-type: none;
+  width: 300px;
+}
+#sec6 li{
+  position: relative;
+}
+#sec6 input {
+  display: none;
+}
+#sec6 label {
+  display: block;
+}
+#sec6 label + p {
+  position: absolute;
+  width: 300px;
+  right: -350px;
+  color: red;
+}
+#sec6 input + div {
+ po 
+}
+#sec6 input + div p {
+
+}
+#sec6 input:checked + div {
+  
+}
